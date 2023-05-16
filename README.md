@@ -1,0 +1,2 @@
+# Exercicios
+Atividade Prática - Struct
