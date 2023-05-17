@@ -1,0 +1,15 @@
+C:\Users\Luciana\Documents\JogadorFutebol\bin\Debug\net7.0\JogadorFutebol.exe
+C:\Users\Luciana\Documents\JogadorFutebol\bin\Debug\net7.0\JogadorFutebol.deps.json
+C:\Users\Luciana\Documents\JogadorFutebol\bin\Debug\net7.0\JogadorFutebol.runtimeconfig.json
+C:\Users\Luciana\Documents\JogadorFutebol\bin\Debug\net7.0\JogadorFutebol.dll
+C:\Users\Luciana\Documents\JogadorFutebol\bin\Debug\net7.0\JogadorFutebol.pdb
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\JogadorFutebol.csproj.AssemblyReference.cache
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\JogadorFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\JogadorFutebol.AssemblyInfoInputs.cache
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\JogadorFutebol.AssemblyInfo.cs
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\JogadorFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\JogadorFutebol.dll
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\refint\JogadorFutebol.dll
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\JogadorFutebol.pdb
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\JogadorFutebol.genruntimeconfig.cache
+C:\Users\Luciana\Documents\JogadorFutebol\obj\Debug\net7.0\ref\JogadorFutebol.dll
