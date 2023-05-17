@@ -1,0 +1,15 @@
+C:\Users\Luciana\Desktop\EquipeEsports\bin\Debug\net7.0\EquipeEsports.exe
+C:\Users\Luciana\Desktop\EquipeEsports\bin\Debug\net7.0\EquipeEsports.deps.json
+C:\Users\Luciana\Desktop\EquipeEsports\bin\Debug\net7.0\EquipeEsports.runtimeconfig.json
+C:\Users\Luciana\Desktop\EquipeEsports\bin\Debug\net7.0\EquipeEsports.dll
+C:\Users\Luciana\Desktop\EquipeEsports\bin\Debug\net7.0\EquipeEsports.pdb
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\EquipeEsports.csproj.AssemblyReference.cache
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\EquipeEsports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\EquipeEsports.AssemblyInfoInputs.cache
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\EquipeEsports.AssemblyInfo.cs
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\EquipeEsports.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\EquipeEsports.dll
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\refint\EquipeEsports.dll
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\EquipeEsports.pdb
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\EquipeEsports.genruntimeconfig.cache
+C:\Users\Luciana\Desktop\EquipeEsports\obj\Debug\net7.0\ref\EquipeEsports.dll
