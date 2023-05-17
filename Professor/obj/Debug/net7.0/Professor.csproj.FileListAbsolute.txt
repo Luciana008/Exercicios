@@ -1,0 +1,15 @@
+C:\Users\Luciana\Desktop\Professor\bin\Debug\net7.0\Professor.exe
+C:\Users\Luciana\Desktop\Professor\bin\Debug\net7.0\Professor.deps.json
+C:\Users\Luciana\Desktop\Professor\bin\Debug\net7.0\Professor.runtimeconfig.json
+C:\Users\Luciana\Desktop\Professor\bin\Debug\net7.0\Professor.dll
+C:\Users\Luciana\Desktop\Professor\bin\Debug\net7.0\Professor.pdb
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\Professor.csproj.AssemblyReference.cache
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\Professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\Professor.AssemblyInfoInputs.cache
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\Professor.AssemblyInfo.cs
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\Professor.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\Professor.dll
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\refint\Professor.dll
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\Professor.pdb
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\Professor.genruntimeconfig.cache
+C:\Users\Luciana\Desktop\Professor\obj\Debug\net7.0\ref\Professor.dll
